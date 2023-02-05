@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Webfont: Thunder-MediumHC */
+@font-face {
+    font-family: 'ThunderMed';
+    src: url('Thunder-MediumHC.eot');
+    /* IE9 Compat Modes */
+    src: url('Thunder-MediumHC.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../public/fonts/Thunder-MediumHC.woff2') format('woff2'),
+        /* Modern Browsers */
+
+        url('../public/fonts/Thunder-MediumHC.ttf') format('truetype'),
+        /* Modern Browsers */
+    ;
+    /* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'Fog5';
+    src: url('../public/fonts/FogtwoNo5.ttf') format('truetype'),
+        /* Modern Browsers */
+    ;
+
+}
+
+
+body {
+    background-color: #000;
+}
+
+h1 {
+    color: white;
+}
+
+.button {
+    font-family: 'Outfit', sans-serif;
+}
