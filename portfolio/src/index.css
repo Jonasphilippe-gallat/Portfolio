@@ -2,9 +2,9 @@
 
 @font-face {
     font-family: 'ThunderMed';
-    src: url('Thunder-MediumHC.eot');
+
     /* IE9 Compat Modes */
-    src: url('Thunder-MediumHC.eot?#iefix') format('embedded-opentype'),
+    src:
         /* IE6-IE8 */
         url('../public/fonts/Thunder-MediumHC.woff2') format('woff2'),
         /* Modern Browsers */
