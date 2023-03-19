@@ -681,7 +681,7 @@ label:after {
     padding: 2rem;
     font-size: 1.5rem;
     height: 5rem;
-    vertical-align: middle;
+
     line-height: 1rem;
     top: 50%;
     transform: translate3d(0, -50%, 0);

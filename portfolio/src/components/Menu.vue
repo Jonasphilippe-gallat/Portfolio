@@ -329,7 +329,7 @@ export default {
 
     font-size: 33px;
     display: flex;
-    justify-content: end;
+
     justify-items: end;
 
 
