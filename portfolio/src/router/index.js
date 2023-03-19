@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 
 import ProjectsView from '../views/ProjectsView.vue'
 import ContactView from '../views/ContactView.vue'
+import Page404 from '../views/Page404.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -23,6 +24,11 @@ const router = createRouter({
       name: 'Contact ',
       component: ContactView
     },
+    {
+      path: '/:pathMatch(.)',
+      name: '404',
+      component: PageNotFound
+    }
 
   ]
 })
