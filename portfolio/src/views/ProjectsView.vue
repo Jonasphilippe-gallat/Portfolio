@@ -1,21 +1,6 @@
 
 <script>
 // Get the video
-var video = document.getElementById("myVideo");
-
-// Get the button
-var btn = document.getElementById("myBtn");
-
-// Pause and play the video, and change the button text
-function myFunction() {
-    if (video.mute = true) {
-        video.unmute();
-        btn.innerHTML = "Pause";
-    } else {
-        video.mute();
-        btn.innerHTML = "Play";
-    }
-}
 </script>
 
 
@@ -181,7 +166,9 @@ function myFunction() {
                         </label>
 
                         <label for="four_4">
+                            <video autoplay muted loop id="myVideo" src="../../public/CV-Animé_Jonas_Philippe-Gallat.mp4">
 
+                            </video>
 
                             <a id="myBtn" class="absolute bottom-7   rounded-full  duration-500 mt-7"
                                 href="https://drive.google.com/file/d/1AxAzqdxGqImZNi-zQTXRm_bZL1VTJShD/view?usp=sharing">
@@ -337,7 +324,10 @@ function myFunction() {
                         </label> <label class="h-96" for="mobile_four_2"> </label><label class="h-96" for="mobile_four_3">
                         </label>
                         <label class="h-96 " for="mobile_four_4">
+                            <video autoplay muted loop id="myVideo_mobile"
+                                src="../../public/CV-Animé_Jonas_Philippe-Gallat.mp4">
 
+                            </video>
 
                             <a id="myBtn_mobile" class="absolute bottom-0 left-[41%]  rounded-full  duration-500 mt-7"
                                 href="https://drive.google.com/file/d/1AxAzqdxGqImZNi-zQTXRm_bZL1VTJShD/view?usp=sharing">
