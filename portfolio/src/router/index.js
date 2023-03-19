@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 
-import EcarVTCView from '../views/EcarVTCView.vue'
-import AnimationsView from '../views/AnimationsView.vue'
+import ProjectsView from '../views/ProjectsView.vue'
+import ContactView from '../views/ContactView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -14,14 +14,14 @@ const router = createRouter({
     },
 
     {
-      path: '/E-carVTC',
-      name: 'E-carVTC ',
-      component: EcarVTCView
+      path: '/Projects',
+      name: 'Projects ',
+      component: ProjectsView
     },
     {
-      path: '/Animations',
-      name: 'Animations ',
-      component: AnimationsView
+      path: '/Contact',
+      name: 'Contact ',
+      component: ContactView
     },
 
   ]

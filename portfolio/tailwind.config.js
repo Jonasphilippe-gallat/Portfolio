@@ -24,6 +24,10 @@ module.exports = {
         'outfit': ['Outfit'],
         'archivo': ['Archivo'],
       },
+      colors: {
+        'main-blue': "#0C2633",
+        'main-red': "#FFf016",
+      },
     },
   },
   plugins: [],
