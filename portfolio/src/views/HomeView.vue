@@ -2,7 +2,7 @@
 import arrow from "../../src/components/design/arrow.vue";
 import star from "../../src/components/design/star.vue";
 import hometitle_mobile from "../../src/components/design/hometitle_mobile.vue";
-import hometitle_desktop from "../../src/components/design/hometitle_desktop.vue";
+
 import hometitle2_desktop from "../../src/components/design/hometitle2_desktop.vue";
 import circle_left from "../../src/components/design/circle_left.vue";
 import circle_right from "../../src/components/design/circle_right.vue";
@@ -22,7 +22,9 @@ import circle_right from "../../src/components/design/circle_right.vue";
         </div>
         <div class="flex  font-outfit w-[100%] h-[100%] text-white justify-end items-end mt-10">
           <arrow class=" relative -left-[10%] w-3/12 h-1/6"></arrow>
-          <button class="py-[4%] w-4/6 px-16 bg-main-red rounded-full text-gray-900"> projects </button>
+          <RouterLink class="w-4/6" to="/Projects">
+            <button class="py-[6%] w-full px-16 bg-main-red rounded-full text-gray-900"> projects </button>
+          </RouterLink>
         </div>
         <div class="flex gap-2 font-outfit text-white my-14 text-center items-center font-bold text-xl">
           <circle_left class="shrink-0"></circle_left>
@@ -30,7 +32,9 @@ import circle_right from "../../src/components/design/circle_right.vue";
           <circle_right class="shrink-0"></circle_right>
         </div>
         <div class="flex justify-center mb-9">
-          <button class="py-[4%] w-4/6 px-16 bg-white rounded-full font-outfit text-gray-900"> contact </button>
+          <RouterLink class="w-4/6" to="/Contact">
+            <button class="py-[6%] w-full px-16 bg-white rounded-full font-outfit text-gray-900"> contact </button>
+          </RouterLink>
         </div>
         <p class="invisible">.</p>
       </div>

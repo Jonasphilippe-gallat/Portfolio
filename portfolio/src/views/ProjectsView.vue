@@ -25,7 +25,8 @@
                         identity</span> </h2>
                 <p class="pt-10 text-[1vw]">Ce projet visait à créer et à établir une image de marque complète pour le
                     lancement d'une
-                    société de VTC.</p>
+                    société de VTC. Mon role dans ce projet de groupe était de m'occuper de la charte graphique, des visuels
+                    réseaux et du maquettage web.</p>
                 <h3 class="font-semibold ml-[1%] mt-[30%] text-[2vw]">Challenge</h3>
                 <ul class="list-outside ml-[5%] mt-7 text-[1vw]">
                     <li class="list-disc mt-3">établir une identité visuelle moderne et simple
@@ -60,7 +61,8 @@
                         class="font-thin">Illustration</span>
                 </h2>
                 <p class="pt-10 text-[1vw]">Il s'agit ici d'une illustration basé sur les affiches promotionnels de la
-                    tournée du rappeur Alpha Wann</p>
+                    tournée du rappeur Alpha Wann. Cette dernière s'inscrit comme une version alternative présentant de
+                    nouvelles caractéristiques.</p>
                 <h3 class="font-semibold ml-[1%] mt-[30%] text-[2vw]">Challenge</h3>
                 <ul class="list-outside ml-[5%]  mt-7 text-[1vw]">
                     <li class="list-disc mt-3">Garder le meme message de communication
@@ -96,7 +98,8 @@
                         identity</span> </h2>
                 <p class="pt-10 text-[1vw]">Voici un projet fictif de création d'identité visuelle et de communication pour
                     une marque de restauration particulière.
-                    Il s'agit ici d'une marque proposant deux services de restauration différents.
+                    Il s'agit ici d'une marque proposant deux services de restauration différents possédant chacun une
+                    identité propre à leurs services.
                 </p>
                 <h3 class="font-semibold ml-[1%] mt-[30%] text-[2vw]">Challenge</h3>
                 <ul class="list-outside ml-[5%] mt-7 text-[1vw]">
@@ -137,7 +140,9 @@
                 <h2 class="font-bold text-[3vw] leading-[100%] text-[#F07D7B] uppercase">PORTFOLIO <span
                         class="font-thin">ANIMATION 2D</span> </h2>
                 <p class="pt-10 text-[1vw]">Cette courte vidéo animée à pour but de mettre en avant quelques uns de mes
-                    projets et également mes compétences en motion design par la même occasion. </p>
+                    projets et également mes compétences en motion design par la même occasion. Ce projet m'a permis d'en
+                    apprendre
+                    davantage sur les techniques d'animations et m'a également initié au sound design. </p>
                 <h3 class="font-semibold ml-[1%] mt-[30%] text-[2vw]">Challenge</h3>
                 <ul class="list-outside ml-[5%] mt-7 text-[1vw]">
                     <li class="list-disc mt-3">Obtenir un rendu dynamique
@@ -209,7 +214,8 @@
                 <p class="pt-10 text-lg text-center">Ce projet visait à créer et à établir une image de marque complète pour
                     le
                     lancement d'une
-                    société de VTC.</p>
+                    société de VTC. Mon role dans ce projet de groupe était de m'occuper de la charte graphique, des visuels
+                    réseaux et du maquettage web.</p>
                 <h3 class="font-semibold  text-center mt-[10%] text-lg">Challenge</h3>
                 <ul class="list-outside flex flex-col items-center text-sm">
                     <li class="list-disc mt-3">établir une identité visuelle moderne et simple
@@ -249,7 +255,8 @@
                         class="font-thin"> Illustration</span> </h2>
                 <p class="pt-10 text-lg text-center">Il s'agit ici d'une illustration basé sur les affiches promotionnels de
                     la
-                    tournée du rappeur Alpha Wann</p>
+                    tournée du rappeur Alpha Wann. Cette dernière s'inscrit comme une version alternative présentant de
+                    nouvelles caractéristiques.</p>
                 <h3 class="font-semibold  text-center mt-[10%] text-lg">Challenge</h3>
                 <ul class="list-outside flex flex-col items-center text-sm">
                     <li class="list-disc mt-3">Garder le meme message de communication
@@ -293,7 +300,8 @@
                 <p class="pt-10 text-lg text-center">Voici un projet fictif de création d'identité visuelle et de
                     communication pour
                     une marque de restauration particulière.
-                    Il s'agit ici d'une marque proposant deux services de restauration différents.
+                    Il s'agit ici d'une marque proposant deux services de restauration différents possédant chacun une
+                    identité propre à leurs services.
                 </p>
                 <h3 class="font-semibold  text-center mt-[10%] text-lg">Challenge</h3>
                 <ul class="list-outside flex flex-col items-center text-sm">
@@ -346,7 +354,8 @@
                         class="font-thin">ANIMATION 2D</span> </h2>
                 <p class="pt-10 text-lg text-center">Cette courte vidéo animée à pour but de mettre en avant quelques uns de
                     mes
-                    projets et également mes compétences en motion design par la même occasion.</p>
+                    projets et mes compétences en motion design par la même occasion. Ce projet m'a permis d'en apprendre
+                    davantage sur les techniques d'animations et m'a également initié au sound design. </p>
                 <h3 class="font-semibold  text-center mt-[10%] text-lg">Challenge</h3>
                 <ul class="list-outside flex flex-col items-center text-sm">
                     <li class="list-disc mt-3">Obtenir un rendu dynamique

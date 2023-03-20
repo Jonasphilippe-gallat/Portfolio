@@ -28,7 +28,7 @@ import contact_star_phone from '../components/design/contact_star_phone.vue';
                 <hr class="">
                 <p
                     class="text-white font-outfit text-left font-light
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ">
                     Mon
                     nom
                     est
@@ -43,30 +43,30 @@ import contact_star_phone from '../components/design/contact_star_phone.vue';
                     et de l'Internet) en spécialisation création numérique.
                 <p> En tant que créatif dans l'âme j'ai pu,
                     dans le
-                    cadre ou non de ma formation, développé des compétences solides en design graphique.</p>
+                    cadre ou non de ma formation, développer des compétences solides en design graphique.</p>
                 Je vous présente ici mon univers créatif à travers quelques unes de mes créations.
                 </p>
                 <hr class="">
             </div>
             <div
-                class="flex flex-col gap-10 contact_section font-bold text-white justify-center uppercase my-8 mt-14 text-center text-3xl">
+                class="flex flex-col gap-10 contact_section font-outfit font-bold text-white justify-center uppercase my-8 mt-14 text-center text-3xl">
                 <div class="flex flex-col justify-center gap-3">
                     <a href="mailto:jonas.pgallat@gmail.com">
                         <contact_star_mail class="mx-auto"></contact_star_mail>
                     </a>
-                    <p>jonas.pgallat@gmail.com</p>
+                    <p class="text-[2vh]">jonas.pgallat@gmail.com</p>
                 </div>
                 <div class="flex flex-col justify-center gap-3">
                     <a href="https://www.linkedin.com/in/jonas-philippe-gallat/" target="_blank">
                         <contact_star_linkedin class="mx-auto"></contact_star_linkedin>
                     </a>
-                    <p>Jonas Philippe Gallat </p>
+                    <p class="text-[2vh]">Jonas Philippe Gallat </p>
                 </div>
                 <div class="flex flex-col justify-center gap-3">
                     <a href="tel:+330641030204">
                         <contact_star_phone class="mx-auto"></contact_star_phone>
                     </a>
-                    <p>06.41.03.02.04</p>
+                    <p class="text-[2vh]">06.41.03.02.04</p>
                 </div>
 
             </div>
@@ -80,7 +80,7 @@ import contact_star_phone from '../components/design/contact_star_phone.vue';
             <div class="flex justify-end content-end self-end w-[30%] mt-5 mr-[5.5%]">
                 <p
                     class="text-white font-outfit text-left font-light w-full text-[1vw] leading-[130%]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ">
                     Mon
                     nom
                     est
@@ -95,7 +95,7 @@ import contact_star_phone from '../components/design/contact_star_phone.vue';
                     et de l'Internet) en spécialisation création numérique.
                 <p> En tant que créatif dans l'âme j'ai pu,
                     dans le
-                    cadre ou non de ma formation, développé des compétences solides en design graphique.</p>
+                    cadre ou non de ma formation, développer des compétences solides en design graphique.</p>
                 Je vous présente ici mon univers créatif à travers quelques unes de mes créations.
                 </p>
             </div>
@@ -104,7 +104,7 @@ import contact_star_phone from '../components/design/contact_star_phone.vue';
         </div>
 
         <div
-            class="flex max-h-[400px] flex-col w-full h-full right-[42%] top-[39%] absolute contact_section font-bold text-white uppercase justify-start items-end gap-[5%] text-[2vw]">
+            class="flex max-h-[400px] flex-col w-full h-full right-[42%] top-[39%] absolute contact_section font-outfit font-bold text-white uppercase justify-start items-end gap-[5%] text-[2vw]">
             <div class="flex flex-row-reverse items-center gap-10 w-full">
                 <a href="mailto:jonas.pgallat@gmail.com">
                     <contact_star_mail class="  shrink-0"></contact_star_mail>
@@ -144,10 +144,6 @@ body {
 
 .section-contact-desktop {
     overflow: hidden;
-}
-
-.contact_section {
-    font-family: 'ThunderBold';
 }
 </style>
 
